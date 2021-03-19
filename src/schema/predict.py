@@ -11,3 +11,4 @@ class PredictResponse(BaseModel):
     height: float
     width: float
     n_boxes: int
+    error: float

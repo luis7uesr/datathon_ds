@@ -1,0 +1,1 @@
+{"id":"9e84757e-db6a-4c97-952d-794e6520b022","space":3506,"runtime":"python3.7","name":"datathon_ds","path":"8hw1id","project":"b0ontl21","account":"144798365827","region":"sa-east-1","deps":["fastapi"],"envs":null,"public":true,"log_level":"debug","cron":"","reload_deps":false}
