@@ -1,1 +1,5 @@
 fastapi
+tensorflow==2.2.0
+numpy
+#pandas
+# functools
